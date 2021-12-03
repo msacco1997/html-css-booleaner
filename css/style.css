@@ -4,6 +4,14 @@ body{
     margin-right: 20%;
     text-align: left;
 }
+thead{
+    background-color: lightsteelblue;
+    color: white;
+}
+
+h1{
+    font-size: 32px;
+}
 .container{
     position: relative;
     top: 0;
@@ -24,9 +32,7 @@ body{
     height: 280px;
 
 }
-h1{
-    font-size: 32px;
-}
+
 .logo{
     width: 200px;
     height: 300px;
@@ -46,5 +52,9 @@ h1{
 }
 .footdue{
     background-image: url(graph.jpg);
+    color: white;
+}
+.tr{
+    background-color: lightblue;
     color: white;
 }
